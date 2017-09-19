@@ -1,0 +1,52 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: auto;
+
+}
+h1 {
+	margin: 0;
+}
+header {
+	background-color: blue;
+	margin: 0;
+}
+div {
+	width: 30%;
+	height: 100px;
+}
+#mleft {
+	background-color: pink;
+	float: left;
+	width: 220px;
+}
+
+
+#mright {
+	background-color: red;
+	float: right;
+	width: 200px;
+}
+
+#bleft {
+	background-color: pink;
+	float: left;
+	clear: both;
+}
+
+#bcenter {
+	background-color: yellow;
+	float: left;
+	margin-left: 5%;
+}
+
+#bright {
+	background-color: red;
+	float: right;
+}
+
+footer {
+	background-color: grey;
+	clear: both;
+}
