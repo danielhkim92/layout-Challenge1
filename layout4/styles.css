@@ -1,0 +1,55 @@
+
+h1 {
+	margin: 0;
+}
+header {
+ 	background-color: blue;
+ 	margin: 1%;
+ 	height: 75px;
+ 	float: left;
+ 	width: 200px;
+ }
+div {
+	width: 30%;
+	height: 100px;
+}
+
+a{
+ 	display: inline-block;
+ 	float: right;
+ 	height: 30px;
+ 	width: 70px;
+ 	margin: 2%;
+ 	margin-top: 3.5%;
+ 	background-color: orange;
+ }
+
+#middle {
+	padding: 70px 0;
+    background-color: brown;
+    margin: auto;
+    clear: both;
+}
+
+
+#bleft {
+	background-color: yellow;
+	float: left;
+	margin-left: 5%;
+	clear: both;
+}
+#bcenter {
+	background-color: yellow;
+	float: left;
+	margin-left: 5%;
+}
+
+#bright {
+	background-color: red;
+	float: right;
+}
+
+footer {
+	background-color: grey;
+	clear: both;
+}
